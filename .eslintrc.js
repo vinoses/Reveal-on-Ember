@@ -13,10 +13,14 @@ module.exports = {
     'plugin:ember/recommended'
   ],
   env: {
-    browser: true
+    browser: true,
+    node: true,
+    amd: true
   },
   rules: {
-    'ember/no-jquery': 'error'
+    'no-console': 'off',
+    'ember/no-global-jquery': 0,
+    'no-html-comments': 0,
   },
   overrides: [
     // node files
@@ -36,7 +40,8 @@ module.exports = {
       },
       env: {
         browser: false,
-        node: true
+        node: true,
+        amd: true
       },
       plugins: ['node'],
       rules: Object.assign({}, require('eslint-plugin-node').configs.recommended.rules, {

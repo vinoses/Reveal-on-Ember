@@ -1,0 +1,9 @@
+{{#each this.model as |slide|}}
+  {{#section-component elementId=slide.id}}
+    <ImgCoomponent src="{{slide.url}}" alt=""></ImgCoomponent>
+  {{/section-component}}
+{{/each}}
+{{outlet}}
+<script>
+  console.log("slides.hbs");
+</script>
