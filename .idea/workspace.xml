@@ -1,140 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0599f184-d1c0-401d-96a3-67761060d982" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/node_modules_testEmber.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testEmber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/img-coomponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/section-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/slides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/components/img-coomponent.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/components/section-component.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/slides.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/print/paper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/print/pdf.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/reveal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/reveal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/beige.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/black.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/blood.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/league.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/moon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/night.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/serif.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/simple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/sky.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/solarized.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/beige.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/black.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/blood.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/league.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/moon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/night.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/serif.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/simple.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/sky.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/solarized.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/source/white.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/template/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/template/settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/template/theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/theme/white.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide0.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide1.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide10.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide11.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide12.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide13.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide14.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide15.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide16.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide17.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide18.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide19.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide2.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide20.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide21.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide22.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide23.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide24.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide25.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide26.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide27.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide28.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide29.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide3.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide30.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide31.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide4.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide5.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide6.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide7.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide8.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Slide9.GIF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/reveal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/css/monokai.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/css/zenburn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/league-gothic/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/league-gothic/league-gothic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/league-gothic/league-gothic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/league-gothic/league-gothic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/league-gothic/league-gothic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-italic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/lib/js/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/highlight/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/markdown/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/markdown/example.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/markdown/markdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/markdown/marked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/math/math.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/multiplex/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/multiplex/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/multiplex/master.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/multiplex/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/notes-server/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/notes-server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/notes-server/notes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/notes/notes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/notes/notes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/print-pdf/print-pdf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/plugin/zoom-js/zoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/integration/components/img-coomponent-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/integration/components/section-component-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/routes/slides-test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.watchmanconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.watchmanconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/application.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/optional-features.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/optional-features.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="0599f184-d1c0-401d-96a3-67761060d982" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bower_components.ember-try/" />
     <ignored path="$PROJECT_DIR$/.node_modules.ember-try/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -179,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/section-component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -264,11 +131,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -349,7 +216,6 @@
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
         <option value="$PROJECT_DIR$/app/components/img-coomponent.js" />
         <option value="$PROJECT_DIR$/app/helpers/url-helper.js" />
-        <option value="$PROJECT_DIR$/app/components/section-component.js" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/templates/.0.hbs" />
         <option value="$PROJECT_DIR$/app/routes/.0.js" />
@@ -360,6 +226,7 @@
         <option value="$PROJECT_DIR$/app/routes/slides.js" />
         <option value="$PROJECT_DIR$/app/routes/slides/.0.js" />
         <option value="$PROJECT_DIR$/app/router.js" />
+        <option value="$PROJECT_DIR$/app/components/section-component.js" />
       </list>
     </option>
   </component>
@@ -375,47 +242,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="testEmber" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="testEmber" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -504,7 +331,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -534,12 +361,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572591674380</updated>
-      <workItem from="1572591677633" duration="54609000" />
+      <workItem from="1572591677633" duration="55614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54609000" />
+    <option name="totallyTimeSpent" value="55614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -548,12 +375,12 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1680929" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1680929" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49938875" visible="true" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49938875" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50061125" side_tool="true" weight="0.32922733" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -829,10 +656,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/section-component.js">
+    <entry file="file://$PROJECT_DIR$/app/routes/slides/.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -843,20 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/slides/.0.js">
+    <entry file="file://$PROJECT_DIR$/app/components/section-component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
